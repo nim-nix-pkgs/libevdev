@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-libevdev-master.flake = false;
+  inputs.src-libevdev-master.ref   = "refs/heads/master";
   inputs.src-libevdev-master.owner = "luked99";
-  inputs.src-libevdev-master.ref   = "master";
   inputs.src-libevdev-master.repo  = "libevdev.nim";
   inputs.src-libevdev-master.type  = "github";
   

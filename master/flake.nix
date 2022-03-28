@@ -11,7 +11,6 @@
   inputs.src-libevdev-master.ref   = "refs/heads/master";
   inputs.src-libevdev-master.owner = "luked99";
   inputs.src-libevdev-master.repo  = "libevdev.nim";
-  inputs.src-libevdev-master.dir   = "";
   inputs.src-libevdev-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

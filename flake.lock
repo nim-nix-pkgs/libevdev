@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658031959,
-        "narHash": "sha256-V9Zg2WPw7cyjsVAKdNJ+hQJFnT+Crx+BCkUnTDWVD6s=",
+        "lastModified": 1658201529,
+        "narHash": "sha256-OOVWBDCr1PTLzBZQ3UUx9xPZ6c5X52P0I6WmSgkVJR8=",
         "owner": "nim-nix-pkgs",
         "repo": "libevdev",
-        "rev": "26f16afdeaca907b0c20a61fdca931b1d3032ecd",
+        "rev": "4dd7a77e495e872f68626f4bea589b013a589efe",
         "type": "github"
       },
       "original": {

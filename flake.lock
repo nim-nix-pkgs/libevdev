@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775900,
-        "narHash": "sha256-StO40LxfRVceVwPjmLYYmBKnJU0If3xqy7x3VoVQIVc=",
+        "lastModified": 1669431172,
+        "narHash": "sha256-+9aCVJdDADA04uIuRQ/O9+3u8WoPfbC3kUUOY+5uxiM=",
         "owner": "nim-nix-pkgs",
         "repo": "libevdev",
-        "rev": "ed1f543f14ecbbc5c2293056334ed468fe0b56cc",
+        "rev": "e686a3271944d5c3005ff8c6d195c39ec3ee5aba",
         "type": "github"
       },
       "original": {
